@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.product {
+  width: 99px;
+  height: 107px;
+}
+
+.bestProduct {
+  width: 187.5px;
+  height: 139px;
+}
+
+.groceryProduct {
+  width: 139px;
+  height: 139px;
+}
+
+.phoneImg {
+  width: 300px;
+  height: 300px;
+}
+
+.colorRed {
+  background: #FFC436;
+  background: #545454;
+  background: #232323;
+  background: #E30613;
+  background: #CFCFCF;
+  background: #333333;
+  background: #1450A3;
+  background: #235BA9;
+  background: #3B3B3B;
+  background: #919191;
+  background: #D9D9D9;
+  background: #3E9237;
+}
